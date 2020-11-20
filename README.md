@@ -41,8 +41,7 @@ Acreditamos em um ambiente onde todas as pessoas se sintam bem-vindas e possam c
 Para que tenhamos um bom convívio, é importante cada um seguir as regras de utilização deste grupo:
 -	Publicar coisas somente relacionadas a tecnologia. Outros temas sem relação serão excluídos.
 -	Divulgação de eventos, palestras e cursos que não pertençam ao grupos são permitidos desde que tenham um direcionamento para promover a diversidade em seu ecossistema e que sejam GRATUITOS. Outros temas não relacionados não são permitidos. Conteúdos pagos precisam de aprovação prévia para publicação.
--	Se você tem um blog que fala sobre tecnologia e quer divulgar suas postagens no grupo, tudo bem, desde que você não utilize o grupo somente para isso.
--	Se você nunca contribui com as discussões do grupo e simplesmente aparece para divulgar seus links, será convidado a se retirar. Os membros que insistirem em não seguir essas regras, infelizmente serão excluídos do grupo.
+-	Se você nunca participa de eventos do grupo e simplesmente aparece para divulgar seus links, será convidado a se retirar. Os membros que insistirem em não seguir essas regras, infelizmente serão excluídos do grupo.
 
 **❓ E se o Código de Conduta for desrespeitado?**
 
