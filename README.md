@@ -54,4 +54,8 @@ Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir ins
 
 Se alguém se envolver em comportamento de assédio, a equipe organizadora poderá tomar todas as medidas que considerar adequadas, incluindo avisar a pessoa ofensora ou expulsá-la da conferência e/ou grupos, com a constatação dos fatos. No caso de eventos pagos, não haverá nenhum reembolso.
 
-Este conteúdo foi elaborado com base no Código de Conduta da comunidade **WoMakersCodeBrasil**. Para saber mais a respeito acesse: https://github.com/WoMakersCode/codigo-de-conduta/blob/master/README.md
+**Sobre o Código de Conduta:**
+
+Este conteúdo foi elaborado com base no Código de Conduta da comunidade **WoMakersCode Brasil**. Para saber mais a respeito acesse: https://github.com/WoMakersCode/codigo-de-conduta/blob/master/README.md
+
+Deixamos aqui nosso agradecimento à **Cynthia Zanoni** e à **comunidade WoMakersCode Brasil** pela autorização em utilizarmos o **Código de Conduta** por elas criado. 
